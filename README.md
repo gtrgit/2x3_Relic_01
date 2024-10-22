@@ -1,3 +1,5 @@
+![Diagram](assets/scene/2x3_relic_01.png)
+
 # SDK7 Template scene
 
 ## Try it out
